@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://NefelibataGC.github.io/zing.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://NefelibataGC.github.io/zing.github.io</link></image><lastBuildDate>Fri, 25 Oct 2024 15:46:07 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Nefelibata</title><link>https://NefelibataGC.github.io/zing.github.io</link><description>分享技术和一些有趣的事情</description><copyright>Nefelibata</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/55477731?v=4</url><title>avatar</title><link>https://NefelibataGC.github.io/zing.github.io</link></image><lastBuildDate>Sat, 26 Oct 2024 03:26:43 +0000</lastBuildDate><managingEditor>Nefelibata</managingEditor><ttl>60</ttl><webMaster>Nefelibata</webMaster><item><title>Nefelibat of test</title><link>https://NefelibataGC.github.io/zing.github.io/post/Nefelibat%20of%20test.html</link><description># 标题1&#13;
+## 标题2&#13;
+### 标题3&#13;
+`systemctl restart sshd`&#13;
+&#13;
+```C++&#13;
+#includ &lt;iostream&gt;&#13;
+using namespace std;&#13;
+int main(){&#13;
+    cout &lt;&lt; 'Hello world' &lt;&lt; endl;&#13;
+    return 0;&#13;
+}&#13;
+```。</description><guid isPermaLink="true">https://NefelibataGC.github.io/zing.github.io/post/Nefelibat%20of%20test.html</guid><pubDate>Fri, 25 Oct 2024 15:45:45 +0000</pubDate></item></channel></rss>
